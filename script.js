@@ -7,16 +7,41 @@ const copy = {
     heroText: 'Over a decade of cross-functional experience spanning software delivery, product discovery, client management, operational systems, and AI-assisted workflows. Strongest when bridging business complexity with practical technical execution.',
     heroPrimary: 'Download CV',
     heroSecondary: 'Open LinkedIn',
+    chip1Label: 'Current Focus',
+    chip1Value: 'Project delivery, product operations, AI workflows',
+    chip2Label: 'Strength Zone',
+    chip2Value: 'Healthcare systems, ERP, automation, cross-functional execution',
+    chip3Label: 'Work Style',
+    chip3Value: 'Structured, practical, delivery-oriented, low-ego collaboration',
     contactLocationLabel: 'Location',
     contactPhoneLabel: 'Phone',
-    coverCaption: 'Direct PDF previews from the current 2026 CV set',
+    portraitCaption: 'Personal portrait paired with direct access to the full CV set.',
+    langCardEnTitle: 'English version',
+    langCardEnText: 'Best for international applications, cross-border communication, and product or project roles in global teams.',
+    langCardViTitle: 'Vietnamese version',
+    langCardViText: 'Best for local opportunities, stakeholder conversations, and situations where Vietnamese nuance matters.',
+    switchEn: 'Open EN',
+    switchVi: 'Open VI',
     statYears: 'Years across product, project, operations, and client delivery',
     statAi: 'Strong leverage in AI agents, workflow automation, and rapid prototyping',
     statDomains: 'Delivered software and operational systems across healthcare, hospitality, and client services',
+    snapshotKicker: 'At A Glance',
+    snapshotTitle: 'A quick read before opening the full CV.',
+    snapshot1Title: 'Professional profile',
+    snapshot1Item1: 'Project manager with strong product thinking and operations discipline.',
+    snapshot1Item2: 'Comfortable bridging business requirements and technical delivery.',
+    snapshot1Item3: 'Strong fit for ambiguous environments that need structure and follow-through.',
+    snapshot2Title: 'What stands out',
+    snapshot2Item1: 'Healthcare software deployment experience with EMR, IOC, and kiosk systems.',
+    snapshot2Item2: 'Hands-on use of AI agents, n8n, and rapid prototyping to accelerate workflows.',
+    snapshot2Item3: 'Operating depth across ERP, CMS, hospitality, and service businesses.',
+    snapshot3Title: 'Core toolkit',
     summaryKicker: 'Professional Summary',
     summaryTitle: 'Built for ambiguous problems that need structure, delivery, and momentum.',
     summaryBody1: 'Minh Quan combines product thinking, execution discipline, and systems intuition. He has managed enterprise healthcare deployments, AI-assisted internal tools, ERP workflows, serviced-apartment operations, and client-facing design delivery across both local and international contexts.',
     summaryBody2: 'The throughline is practical orchestration: clarifying requirements, shaping workflows, aligning teams, removing blockers, and using modern AI tooling to shorten cycles without losing judgment.',
+    previewKicker: 'CV Preview',
+    previewTitle: 'Both documents are available here, with direct PDF access.',
     strengthKicker: 'Core Strengths',
     strengthTitle: 'Where the profile is strongest',
     strength1Title: 'Project & Product Leadership',
@@ -61,6 +86,7 @@ const copy = {
     downloadKicker: 'Downloads',
     downloadTitle: 'Current CV package',
     downloadEnText: 'Use the English version for international applications, product leadership roles, and cross-border communication.',
+    downloadViTitle: 'CV 2026 Vietnamese',
     downloadViText: 'Use the Vietnamese version for local roles, stakeholder conversations, and contexts where native-language clarity matters.',
     downloadPdf: 'Download PDF',
     openDrive: 'Open Drive'
@@ -73,16 +99,41 @@ const copy = {
     heroText: 'Hơn một thập kỷ kinh nghiệm đa chức năng trải dài từ phát triển phần mềm, khám phá sản phẩm, quản lý khách hàng, vận hành hệ thống đến các quy trình có AI hỗ trợ. Điểm mạnh nhất là biến độ phức tạp trong kinh doanh thành cách triển khai kỹ thuật thực tế.',
     heroPrimary: 'Tải CV',
     heroSecondary: 'Mở LinkedIn',
+    chip1Label: 'Trọng tâm hiện tại',
+    chip1Value: 'Triển khai dự án, vận hành sản phẩm, quy trình AI',
+    chip2Label: 'Vùng thế mạnh',
+    chip2Value: 'Hệ thống y tế, ERP, tự động hóa, điều phối liên phòng ban',
+    chip3Label: 'Phong cách làm việc',
+    chip3Value: 'Có cấu trúc, thực tế, thiên về bàn giao, hợp tác không màu mè',
     contactLocationLabel: 'Địa điểm',
     contactPhoneLabel: 'Điện thoại',
-    coverCaption: 'Ảnh xem trước trực tiếp từ bộ CV 2026 hiện tại',
+    portraitCaption: 'Ảnh chân dung cá nhân đi kèm truy cập trực tiếp đến toàn bộ bộ CV.',
+    langCardEnTitle: 'Bản tiếng Anh',
+    langCardEnText: 'Phù hợp cho hồ sơ quốc tế, giao tiếp xuyên biên giới và các vai trò sản phẩm hoặc dự án trong đội ngũ toàn cầu.',
+    langCardViTitle: 'Bản tiếng Việt',
+    langCardViText: 'Phù hợp cho cơ hội trong nước, trao đổi với đối tác địa phương và các tình huống cần sắc thái tiếng Việt rõ ràng.',
+    switchEn: 'Mở EN',
+    switchVi: 'Mở VI',
     statYears: 'Năm kinh nghiệm trải dài qua sản phẩm, dự án, vận hành và làm việc với khách hàng',
     statAi: 'Khả năng tận dụng AI Agent, tự động hóa quy trình và tạo mẫu rất nhanh',
     statDomains: 'Đã triển khai hệ thống phần mềm và vận hành trong y tế, lưu trú và dịch vụ khách hàng',
+    snapshotKicker: 'Tóm tắt nhanh',
+    snapshotTitle: 'Đọc nhanh trước khi mở CV đầy đủ.',
+    snapshot1Title: 'Chân dung nghề nghiệp',
+    snapshot1Item1: 'Quản lý dự án với tư duy sản phẩm rõ và kỷ luật vận hành tốt.',
+    snapshot1Item2: 'Có khả năng nối yêu cầu kinh doanh với triển khai kỹ thuật.',
+    snapshot1Item3: 'Phù hợp với môi trường mơ hồ cần cấu trúc và khả năng theo đến cùng.',
+    snapshot2Title: 'Điểm nổi bật',
+    snapshot2Item1: 'Có kinh nghiệm triển khai phần mềm y tế với EMR, IOC và kiosk.',
+    snapshot2Item2: 'Dùng thực tế AI Agent, n8n và tạo mẫu nhanh để tăng tốc quy trình.',
+    snapshot2Item3: 'Có chiều sâu vận hành ở ERP, CMS, lưu trú và các mô hình dịch vụ.',
+    snapshot3Title: 'Bộ công cụ chính',
     summaryKicker: 'Hồ sơ chuyên môn',
     summaryTitle: 'Phù hợp với những bài toán mơ hồ cần cấu trúc, tốc độ triển khai và khả năng giữ nhịp.',
     summaryBody1: 'Minh Quân kết hợp tư duy sản phẩm, kỷ luật thực thi và góc nhìn hệ thống. Anh đã quản lý các đợt triển khai y tế cấp doanh nghiệp, công cụ nội bộ có AI hỗ trợ, quy trình ERP, vận hành căn hộ dịch vụ và các dự án truyền thông cho khách hàng trong và ngoài nước.',
     summaryBody2: 'Sợi chỉ xuyên suốt là năng lực điều phối thực tế: làm rõ yêu cầu, định hình quy trình, kết nối đội ngũ, tháo gỡ điểm nghẽn và tận dụng công cụ AI hiện đại để rút ngắn chu kỳ mà không đánh mất khả năng phán đoán.',
+    previewKicker: 'Xem trước CV',
+    previewTitle: 'Cả hai tài liệu đều có sẵn tại đây, kèm truy cập PDF trực tiếp.',
     strengthKicker: 'Năng lực cốt lõi',
     strengthTitle: 'Những điểm mạnh nổi bật nhất',
     strength1Title: 'Quản lý Dự án & Sản phẩm',
@@ -127,6 +178,7 @@ const copy = {
     downloadKicker: 'Tải xuống',
     downloadTitle: 'Bộ CV hiện tại',
     downloadEnText: 'Dùng bản tiếng Anh cho hồ sơ ứng tuyển quốc tế, vai trò quản lý sản phẩm hoặc bối cảnh giao tiếp xuyên biên giới.',
+    downloadViTitle: 'CV 2026 Tiếng Việt',
     downloadViText: 'Dùng bản tiếng Việt cho vị trí trong nước, trao đổi với đối tác địa phương và các bối cảnh cần diễn đạt tự nhiên bằng tiếng Việt.',
     downloadPdf: 'Tải PDF',
     openDrive: 'Mở Drive'
@@ -139,14 +191,10 @@ const langButtons = document.querySelectorAll('.lang-btn');
 function getRequestedLanguage() {
   const params = new URLSearchParams(window.location.search);
   const requested = params.get('lang');
-  if (requested && copy[requested]) {
-    return requested;
-  }
+  if (requested && copy[requested]) return requested;
 
   const stored = localStorage.getItem('mq_cv_lang');
-  if (stored && copy[stored]) {
-    return stored;
-  }
+  if (stored && copy[stored]) return stored;
 
   return 'en';
 }
@@ -166,6 +214,9 @@ function setLanguage(lang) {
     btn.classList.toggle('active', btn.dataset.lang === lang);
   });
 
+  const url = new URL(window.location.href);
+  url.searchParams.set('lang', lang);
+  window.history.replaceState({}, '', url);
   localStorage.setItem('mq_cv_lang', lang);
 }
 
