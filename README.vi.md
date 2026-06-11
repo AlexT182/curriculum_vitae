@@ -2,8 +2,8 @@
 
 Quản lý dự án công nghệ ứng dụng AI với tư duy sản phẩm rõ, kỷ luật vận hành tốt và thiên hướng bàn giao thực tế.
 
-[![Tải CV tiếng Anh](https://img.shields.io/badge/T%E1%BA%A3i-CV%20English-1b1713?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_EN.pdf)
-[![Tải CV tiếng Việt](https://img.shields.io/badge/T%E1%BA%A3i-CV%20Ti%E1%BA%BFng%20Vi%E1%BB%87t-d96813?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_VN.pdf)
+[![English CV](https://img.shields.io/badge/English-CV-1b1713?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_EN.pdf)
+[![Vietnamese CV](https://img.shields.io/badge/Vietnamese-CV-d96813?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_VN.pdf)
 [![Read English](https://img.shields.io/badge/Read-README%20English-8a4b21?style=for-the-badge&logo=readme&logoColor=white)](README.md)
 
 [![Địa điểm](https://img.shields.io/badge/TP.HCM-Vi%E1%BB%87t%20Nam-f2efe9?style=flat-square)](#liên-hệ)
@@ -11,7 +11,7 @@ Quản lý dự án công nghệ ứng dụng AI với tư duy sản phẩm rõ,
 [![Email](https://img.shields.io/badge/Email-taminhquan182%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:taminhquan182@gmail.com)
 [![Điện thoại](https://img.shields.io/badge/Điện%20thoại-0908695494-1f6f43?style=flat-square&logo=whatsapp&logoColor=white)](tel:+84908695494)
 
-![Chân dung Minh Quân](assets/profile/minh-quan-portrait.jpg)
+<img src="assets/profile/minh-quan-portrait.jpg" alt="Chân dung Minh Quân" width="420">
 
 ## Tóm Tắt Hồ Sơ
 

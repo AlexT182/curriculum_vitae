@@ -2,16 +2,16 @@
 
 AI-powered Technology Project Manager with strong product thinking, operations discipline, and practical delivery focus.
 
-[![English CV](https://img.shields.io/badge/Download-CV%20English-1b1713?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_EN.pdf)
-[![Vietnamese CV](https://img.shields.io/badge/Download-CV%20Ti%E1%BA%BFng%20Vi%E1%BB%87t-d96813?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_VN.pdf)
-[![Read Vietnamese](https://img.shields.io/badge/%C4%90%E1%BB%8Dc-README%20Ti%E1%BA%BFng%20Vi%E1%BB%87t-8a4b21?style=for-the-badge&logo=readme&logoColor=white)](README.vi.md)
+[![English CV](https://img.shields.io/badge/English-CV-1b1713?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_EN.pdf)
+[![Vietnamese CV](https://img.shields.io/badge/Vietnamese-CV-d96813?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](assets/cv/MinhQuan_CV2026_VN.pdf)
+[![Read Vietnamese](https://img.shields.io/badge/Read-Vietnamese-8a4b21?style=for-the-badge&logo=readme&logoColor=white)](README.vi.md)
 
 [![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-f2efe9?style=flat-square)](#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alext--tech--ops-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alext-tech-ops)
 [![Email](https://img.shields.io/badge/Email-taminhquan182%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:taminhquan182@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-0908695494-1f6f43?style=flat-square&logo=whatsapp&logoColor=white)](tel:+84908695494)
 
-![Minh Quan portrait](assets/profile/minh-quan-portrait.jpg)
+<img src="assets/profile/minh-quan-portrait.jpg" alt="Minh Quan portrait" width="420">
 
 ## Profile Summary
 
